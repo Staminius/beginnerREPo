@@ -2,8 +2,7 @@
 
 ## Purpose
 
-This repository documents my journey learning JavaScript from beginner fundamentals to small projects.
-It contains exercises, experiments, notes, and mini projects that show progress over time.
+Nothing much here... This is an attempt to learn javascript
 
 ---
 
@@ -90,3 +89,4 @@ Goal: reinforce understanding and track growth.
 * Async JavaScript
 * More complex projects
 
+**Would love support and tutorials**
